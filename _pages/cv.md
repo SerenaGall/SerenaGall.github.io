@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Molecular Biology and Biochemistry, Monash University, 2022
+* B.S. Honours in Science, University of Melbourne, 2015
+* B.S. in Health Biotechnologies, Catholic University of Sacred Heart Italy , 2014
 
 Work experience
 ======
