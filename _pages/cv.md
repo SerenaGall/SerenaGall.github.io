@@ -12,40 +12,50 @@ redirect_from:
 Education
 ======
 * Ph.D in Molecular Biology and Biochemistry, Monash University, 2022
+* Graduate Certificate in Data Science, University of New England, 2026
 * B.S. Honours in Science, University of Melbourne, 2015
 * B.S. in Health Biotechnologies, Catholic University of Sacred Heart Italy , 2014
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Oct 2023 - Present: Postdoctoral at QIMR Berghofer, QLD Australia
+  * To fill
+  * To fill
+  * Supervisor: Severine Navarro
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2022-2023: Research Assistant/Data Analyst at Murdoch Children Research Institute, VIC Australia
+  * To fill
+  * To fill
+  * Supervisor: Melissa Little
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
+* 2021 - 2022: Clinical Trial Coordinator at Emeritus Research, VIC Australia
+  * Coordinated regulatory and ethics submissions (HREC) across multiple clinical trials.
+  * Maintained compliance documentation and ensured alignment with GCP and sponsor protocols.
+  * Acted as a central liaison between investigators, sponsors, ethics boards, and internal stakeholder communication.
+
+* 2018 - 2022: Demonstrator/Tutor at Monash University
+  * To fill
+  * To fill
+
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Data Analytics and Statistical Modelling 
+  * R 
+  * Python
+  * SQL
+  * Excel
+  * Power BI
+* Reporting: technical wiriting, research papers, dashboard creation.
+* Stakeholder engagement. Cross-functional liaison, project coordination (Clinicians, Researchers, Sponsors).
+* Healthcare & Policy Exposure: Clinical trial protocols, regulatory compliance (GCP, HREC)
+* Software & Tools: PostgreSQL, Git, Unix/Bash, Jupyter, R etc.
+* Research Methods: Statistical Modelling, literature reviews, trend analysis.
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+# Publications
+# ======
+#   <ul>{% for post in site.publications reversed %}
+#     {% include archive-single-cv.html %}
+#   {% endfor %}</ul>
   
 Talks
 ======
@@ -55,10 +65,18 @@ Talks
   
 Teaching
 ======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* Demonstrator at Monash University 2018 - 2022:
+  * Molecular Biology
+  * Biochemistry
+  * Microbiology 
+  * Developmental Anatomy
+
+#  <ul>{% for post in site.teaching reversed %}
+#    {% include archive-single-cv.html %}
+#  {% endfor %}</ul>
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Executive Member – QIMRB Postgraduate Association (2023–present)  
+* Member – ASSCR Early Career Researcher Committee  (2022-2024)
+* Secretary – Anatomy Postgrad Association, Monash University (2020–21)
