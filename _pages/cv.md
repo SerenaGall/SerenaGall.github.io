@@ -54,6 +54,7 @@ Education
 
 Technical expertise
 ======
+
 | Category | Skills |
 |---|---|
 | **Programming & computing** | R, Python, Bash, Linux, HPC, Git/GitHub, Jupyter |
