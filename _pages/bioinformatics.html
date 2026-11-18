@@ -1,0 +1,17 @@
+---
+layout: archive
+title: "Bioinformatics Projects"
+permalink: /bioinformatics/
+author_profile: true
+redirect_from:
+  - /portfolio/
+---
+
+{% include base_path %}
+
+<p>Single-cell RNA-seq, TCR-seq, bulk RNA-seq and reproducible analysis workflows.</p>
+
+{% assign projects = site.portfolio | where: "project_type", "bioinformatics" %}
+{% for post in projects %}
+  {% include archive-single.html %}
+{% endfor %}
