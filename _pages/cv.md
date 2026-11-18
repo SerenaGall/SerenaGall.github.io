@@ -9,25 +9,28 @@ redirect_from:
 
 {% include base_path %}
 
-Computational biology-focused research scientist with a PhD in Biochemistry and Molecular Biology and strong experience analysing bulk and single-cell RNA-seq data in biomedical research. I combine experimental biology expertise with reproducible computational analysis in R, Bash and HPC environments, covering end-to-end transcriptomic workflows, statistical analysis, data integration, biological interpretation, scientific reporting and research supervision.
+Biomedical data scientist and computationally focused molecular biologist with a PhD in Biochemistry and Molecular Biology. Experienced in analysing complex biological datasets, developing reproducible computational workflows and applying statistical methods to biomedical research.
+
+My expertise spans single-cell and bulk transcriptomics, high-dimensional data analysis, data visualisation and biological interpretation, primarily using R/Bioconductor, Python and Linux-based computing environments.
+
+I combine computational skills with a strong background in experimental biology, clinical research coordination and multidisciplinary collaboration, bringing a practical understanding of data generation, quality, analysis and communication.
 
 Research and professional experience
 ======
 * **Postdoctoral Research Officer**, QIMR Berghofer Medical Research Institute, Brisbane, QLD (Oct 2023 – present)
-  * Computational analyses of immunology research projects using single-cell and bulk RNA-seq, translating complex datasets into biologically interpretable findings and publication-ready outputs.
-  * Single-cell RNA-seq analysis in R with Seurat v5: quality control, normalisation, integration and batch correction, dimensionality reduction, clustering, cell-state annotation and differential analyses.
-  * Bulk and pseudobulk differential expression with edgeR and related Bioconductor workflows, with appropriate experimental design, covariate handling and multiple-testing correction.
-  * Advanced single-cell approaches including differential-abundance, trajectory and pathway analysis and TCR/VDJ clonotype integration.
-  * Documented, reproducible analysis workflows using R, Quarto, Bash, Git and HPC environments; figures, reports and analysis outputs for collaborators and manuscripts.
-  * Collaboration with experimental scientists on study design, interpretation and prioritisation of follow-up analyses; contributions to manuscripts and competitive funding applications.
-  * Supervision and mentoring of Honours students.
+  * Lead computational analyses of single-cell and bulk RNA-seq datasets, translating complex biological data into interpretable findings, visualisations and scientific reports.
+  * Implement end-to-end transcriptomics workflows in R/Bioconductor, including quality control, normalisation, integration, differential expression, pathway enrichment and trajectory analysis.
+  * Apply statistical methods to high-dimensional datasets, including replicate-aware pseudobulk differential expression, differential abundance and immune repertoire analysis.
+  * Develop documented, reproducible analytical workflows using R, Quarto, Git, Bash and high-performance computing environments, supporting transparent and reusable research.
+  * Collaborate with multidisciplinary research teams on experimental design, data interpretation, manuscripts and grant applications; supervise and mentor Honours students.
   * Supervisor: Severine Navarro
 
 * **Data Analyst / Research Assistant**, Murdoch Children's Research Institute, Melbourne, VIC (2022 – 2023)
-  * Molecular biology research using kidney organoid models and management of experimental datasets in a multidisciplinary environment.
-  * Data visualisations and quantitative analyses to support interpretation of experimental outcomes.
-  * Python scripting and Arduino-based tools to support custom experimental devices and data workflows.
-  * Supervisor: Melissa Little
+  * Conducted molecular and cellular biology research using iPSC-derived models, including kidney organoids, to investigate biological processes.
+  * Performed quantitative analysis and visualisation of experimental datasets, supporting interpretation and communication of research findings.
+  * Used confocal microscopy and image-based analysis to investigate cellular phenotypes and experimental outcomes.
+  * Contributed to custom experimental systems incorporating Arduino-controlled optogenetic tools, with Python scripting to support experimental workflows.
+  * Collaborated with multidisciplinary researchers on experimental design, troubleshooting and data interpretation.
 
 * **Clinical Trial Coordinator / Project Manager**, Emeritus Research, Melbourne, VIC (2021 – 2022)
   * Coordinated clinical research projects, stakeholder communication, study documentation and data capture while maintaining HREC and protocol compliance.
@@ -51,12 +54,14 @@ Education
 
 Technical expertise
 ======
-* **Transcriptomics:** single-cell RNA-seq; bulk RNA-seq; 10x Genomics workflows; differential expression; pseudobulk analysis; pathway and gene-set interpretation; trajectory and differential-abundance analyses
-* **Single-cell methods:** QC and filtering; HTO demultiplexing; ambient RNA correction; doublet detection; SCT normalisation; Harmony integration; clustering and annotation; compositional analysis; clonotype/VDJ integration
-* **R / Bioinformatics:** R; Seurat v5; edgeR; DESeq2; ggplot2; dplyr; Quarto; Bioconductor workflows
-* **Computing:** HPC / supercomputing environments; Bash scripting; Python; Jupyter; VS Code; Git
-* **Statistics and reproducibility:** high-dimensional data analysis; normalisation; differential expression model design; covariate handling; multiple-testing correction; documented analysis workflows
-* **Scientific outputs:** publication-quality figures; analysis reports; manuscript drafting; poster presentations; collaborative data interpretation
+| Category | Skills |
+|---|---|
+| **Programming & computing** | R, Python, Bash, Linux, HPC, Git/GitHub, Jupyter |
+| **Statistical analysis** | Experimental design, differential expression, multiple-testing correction, high-dimensional data analysis |
+| **Bioinformatics** | scRNA-seq, bulk RNA-seq, TCR/VDJ, Seurat, edgeR, DESeq2, Bioconductor, Harmony |
+| **Data analysis & reporting** | Data cleaning, transformation, visualisation, ggplot2, Quarto, reproducible reports |
+| **Experimental biology** | Molecular biology, organoid culture, iPSC models, confocal microscopy, PCR/qPCR |
+| **Research & collaboration** | Scientific reporting, project coordination, stakeholder communication, student mentoring |
 
 Research presentations
 ======
